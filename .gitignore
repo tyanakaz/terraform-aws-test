@@ -1,2 +1,8 @@
-./tyanakaz.pem
-./terraform.tfvars
+# Key File
+tyanakaz
+
+# Parameter File
+terraform.tfvars
+
+# Terraform
+.terraform/
