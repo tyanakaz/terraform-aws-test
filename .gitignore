@@ -1,5 +1,5 @@
 # Key File
-tyanakaz
+*.pem
 
 # Parameter File
 terraform.tfvars
